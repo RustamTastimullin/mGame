@@ -1,0 +1,3 @@
+interface Scorable {
+    void scorring();
+}
