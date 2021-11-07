@@ -5,7 +5,8 @@ public class Start {
     public static void main(String[] args) throws IOException {
         Menu menu = new Menu();
         menu.intro();
-        System.out.print("Для начала введи имя перонажа: ");
+        // put one string
+//        System.out.print("Для начала введи имя перонажа: ");
         // Player player = new Player();
         // player.setPlayerName();
         // System.out.println("Итак " + player.getPlayerName() + ", ты начинаешь игру с: " + player.getPlayerHP() + " HP");
